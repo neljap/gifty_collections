@@ -1,0 +1,28 @@
+{
+    "bags": [
+        {
+            "id": 1,
+            "name": "Afican bags",
+            "image": "https://res.cloudinary.com/dr6a80sph/image/upload/v1679322830/max-anderson_hemkxz.png",
+            "price": 998
+        },
+        {
+            "id": 2,
+            "name": "Afican bags",
+            "image": "https://res.cloudinary.com/dr6a80sph/image/upload/v1679322830/max-anderson_hemkxz.png",
+            "price": 998
+        },
+        {
+            "id": 3,
+            "name": "Afican bags",
+            "image": "https://res.cloudinary.com/dr6a80sph/image/upload/v1679322830/max-anderson_hemkxz.png",
+            "price": 998
+        },
+        {
+            "id": 4,
+            "name": "Afican bags",
+            "image": "https://res.cloudinary.com/dr6a80sph/image/upload/v1679322830/max-anderson_hemkxz.png",
+            "price": 998
+        }
+    ]
+}
